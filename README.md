@@ -105,11 +105,15 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/worldwide_friend_zone)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/mr_sukkun)
+[sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/worldwide_friend_zone)
+
+[sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/mukhushi_official)
+
+[ ɴᴇᴛᴡᴏʀᴋ ](https://t.me/mastermind_network_official)
 
 ## Credits 
 * [ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boy)
+                                                                     
   [ᴅᴀʀᴋᴄᴏᴅᴇʀ](https://t.me/Never_believe_me)                                                          
 
 
