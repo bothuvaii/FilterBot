@@ -31,6 +31,10 @@
 - [x] Spelling Check Feature
 - [x] File Store
 ## Variables
+Deploy on heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itz-mst-boy/FilterBot)
+
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
