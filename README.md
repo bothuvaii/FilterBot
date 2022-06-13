@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/a932394f6b7d106e66cc5.jpg" alt="FilterBot Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Auto Filter Bot</b>
 </h1>
 
 
